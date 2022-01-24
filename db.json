@@ -1,0 +1,22 @@
+{
+    "questions": [
+        {
+            "question": "En quelle année est sorti le premier Scream ?",
+            "correct_answer": "1996",
+            "incorrect_answers": [
+                "1994",
+                "1998",
+                "1997"
+            ]
+        },
+        {
+            "question": "En quelle année est sorti le premier Reservoir dogs ?",
+            "correct_answer": "1992",
+            "incorrect_answers": [
+                "1994",
+                "1995",
+                "1990"
+            ]
+        }
+    ]
+}
